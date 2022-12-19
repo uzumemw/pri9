@@ -19,6 +19,12 @@ cout << "\n  a / b = " << a / b;
 
 cout << "\n  a * b = " << a * b;
 
+<<<<<<< HEAD
 cout << "\n  a * a + b = " << a * a + b;
+=======
+cout << "\n  a * b = " << a * b;
+
+cout << "\n  b * b + a = " << b * b + a;
+>>>>>>> task3
 
 }
