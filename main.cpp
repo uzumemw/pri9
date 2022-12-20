@@ -21,4 +21,7 @@ cout << "\n  a * b = " << a * b;
   
 cout << "\n  a * a = " << a * a;
 
+cout << "\n  b * b = " << b * b;
+
+
 }
